@@ -12,7 +12,7 @@ This project is built to implement the Recruitment database for the Human Resour
 
 **ER Diagram**
 
-![](RackMultipart20200803-4-4ynn0v_html_479c1fde05aa1727.png)
+![diagram](diagram.png)
   
 The design of the database is depicted using the crow&#39;s foot entity relationship model that is divided into 6 parts according to the data entities.
 
